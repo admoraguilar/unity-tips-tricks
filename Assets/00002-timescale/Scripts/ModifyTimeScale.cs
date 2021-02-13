@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnityTipsTricks
+namespace UnityTipsTricks.P00002_Timescale
 {
 	public class ModifyTimeScale : MonoBehaviour
 	{

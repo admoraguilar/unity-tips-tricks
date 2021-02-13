@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityTipsTricks
+namespace UnityTipsTricks.P00001_Screnshot
 {
 	public class CaptureScreenshot : MonoBehaviour
 	{
