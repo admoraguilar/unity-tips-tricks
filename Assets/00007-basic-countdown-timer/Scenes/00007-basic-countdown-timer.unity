@@ -389,6 +389,7 @@ MonoBehaviour:
           m_StringArgument: Game Start!
           m_BoolArgument: 0
         m_CallState: 2
+  _timerValueText: {fileID: 2067777490}
 --- !u!1 &543885085
 GameObject:
   m_ObjectHideFlags: 0
